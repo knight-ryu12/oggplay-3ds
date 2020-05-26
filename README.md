@@ -1,3 +1,4 @@
-# template
+# oggplay
+This tries to produce 47kHz sound by lifting DSP limit.
+Not sure this is really feasible or not.
 
-This is a template for starting new 3DS libctru projects.
